@@ -110,60 +110,20 @@ python dashboard.py
    - Upload your own data
    - Try our sample generator
 
-## Testing Time 🧪
-
-Make sure everything's working smoothly:
-```bash
-python -m unittest test_drift_analyzer.py -v
-```
 
 ## Project Layout 📁
 ```
 llm-drift-analyzer/
-├── drift_analyzer.py      # The brains of the operation
-├── dashboard.py           # Your visual command center
-├── sample_data_generator.py # Your testing buddy
-├── test_drift_analyzer.py # Quality control
-├── requirements.txt       # All the good stuff you need
-└── README.md             # This awesome file
+├── drift_analyzer.py             # The brains of the operation
+├── dashboard.py                  # Your visual command center
+├── sample_data_generator.py      # Your testing buddy
+├── test_drift_analyzer.py        # Quality control
+├── requirements.txt              # All the good stuff you need
+└── README.md             
 ```
-
-## Why This Rocks for ML Intern Roles 🎯
-
-1. **ML Technical Skills**
-   - Working with state-of-the-art NLP models
-   - Implementing statistical ML methods
-   - Feature engineering and embedding generation
-   - Model evaluation and monitoring
-
-2. **Data Science Expertise**
-   - Statistical analysis and hypothesis testing
-   - Anomaly detection and pattern recognition
-   - Data preprocessing and feature engineering
-   - Performance metrics and evaluation
-
-3. **ML Problem-Solving**
-   - Real-world ML challenges
-   - Multiple solution approaches
-   - End-to-end ML pipeline development
-   - Model monitoring and maintenance
-
-4. **Technical Implementation**
-   - PyTorch and modern ML frameworks
-   - Efficient data processing
-   - Scalable ML solutions
-   - Production-ready code
-
-5. **ML Best Practices**
-   - Comprehensive testing
-   - Model evaluation metrics
-   - Documentation and reproducibility
-   - Performance optimization
-
 ## Want to Help? 🤝
 
 We'd love your input! Feel free to submit a Pull Request.
 
-## License 📄
 
 This project is licensed under the MIT License - see the LICENSE file for the details. 
