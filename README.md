@@ -114,16 +114,23 @@ python dashboard.py
 ## Project Layout 📁
 ```
 llm-drift-analyzer/
-├── drift_analyzer.py             # The brains of the operation
-├── dashboard.py                  # Your visual command center
-├── sample_data_generator.py      # Your testing buddy
-├── test_drift_analyzer.py        # Quality control
-├── requirements.txt              # All the good stuff you need
+├── drift_analyzer.py            # The brains of the operation
+├── dashboard.py                 # Your visual command center
+├── sample_data_generator.py     # Your testing buddy
+├── test_drift_analyzer.py       # Quality control
+├── requirements.txt             # All the good stuff you need
 └── README.md             
 ```
+
+
 ## Want to Help? 🤝
 
-We'd love your input! Feel free to submit a Pull Request.
+We'd love your input! Feel free to submit a Pull Request. For any questions or collaborations, please reach out to either of the team members.
 
+## Team 👥
 
-This project is licensed under the MIT License - see the LICENSE file for the details. 
+This project was developed by:
+- **Abhya Reddy Ambati**
+- **Rajiv Kalyan Chilla**
+
+Together, we combined our expertise in machine learning, data science, and software engineering to create this comprehensive drift analysis tool.
