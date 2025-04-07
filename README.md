@@ -51,14 +51,4 @@ llm-drift-analyzer/
 ```
 
 
-## Want to Help? 
 
-We'd love your input! Feel free to submit a Pull Request. For any questions or collaborations, please reach out to either of the team members.
-
-## Team 👥
-
-This project was developed by:
-- **Abhya Reddy Ambati**
-- **Rajiv Kalyan Chilla**
-
-Together, we combined our expertise in machine learning, data science, and software engineering to create this comprehensive drift analysis tool.
